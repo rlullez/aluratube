@@ -1,0 +1,22 @@
+{
+    "name": "Rodrigo Lullez",
+    "job": "Dev FullStack",
+    "gitHub": "rlullez",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ]
+    }
+}
+
